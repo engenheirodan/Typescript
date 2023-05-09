@@ -1,0 +1,12 @@
+// instalando o typscript
+apenas dois passos.
+
+primeiro precisa ter o npm instalado em maquina
+digite o comando npm install -g typescript
+verifique qual versão tem instalado em maquina tsc --version
+
+O TypeScript foi desenvolvido pela Microsoft tendo como base o JavaScript (JS). Em outras palavras, podemos dizer que o TypeScript tem todas as funcionalidades do JavaScript, porém com algumas funcionalidades a mais.
+
+Tipagem Estática
+Ao contrário do JavaScript que tem a Tipagem dinâmica, o TypeScript apresenta uma tipagem estática. Uma das suas principais características é a “tipagem forte”, razão que leva em seu nome o prefixo “type”.
+
