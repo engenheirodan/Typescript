@@ -10,3 +10,6 @@ O TypeScript foi desenvolvido pela Microsoft tendo como base o JavaScript (JS). 
 Tipagem Estática
 Ao contrário do JavaScript que tem a Tipagem dinâmica, o TypeScript apresenta uma tipagem estática. Uma das suas principais características é a “tipagem forte”, razão que leva em seu nome o prefixo “type”.
 
+
+Comando para criar pasta compilada 
+tsc index.ts 
