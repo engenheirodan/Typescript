@@ -13,3 +13,9 @@ Ao contrário do JavaScript que tem a Tipagem dinâmica, o TypeScript apresenta 
 
 Comando para criar pasta compilada 
 tsc index.ts 
+
+Comando para gerar configuração
+tsc --init
+
+comando para gerar automaticamente
+tsc -w
