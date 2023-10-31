@@ -1,0 +1,20 @@
+//Adicionando codigos em typscript você terá o resultado de compilação aonde as tipagens serão mais fortes!!!//
+//Aplicado com typscript
+const firstName = 'Danilo'
+const anotherName = 1
+const x = true
+function greeting(name: string) {
+  console.log('Olá, ' + name)
+}
+greeting(firstName)
+
+//Resultado transformado em javascrit
+//Note que em function foi aplicado o tipo da variavel e também o javascript reconheceu que exitia virgula, porem não preciso escrever em typscript
+"use strict";
+const firstName = 'Danilo';
+const anotherName = 1;
+const x = true;
+function greeting(name) {
+    console.log('Olá, ' + name);
+}
+greeting(firstName);
